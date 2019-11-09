@@ -1,5 +1,4 @@
 import os
-import csv
 
 corset_cluster = open('Z:/Work/NorfabShare/Transcriptomics/Clusters/M02_clusters.txt')
 output = open('Z:/Work/NorfabShare/Transcriptomics/Headers/M02_headers_aalen.txt', 'w')
